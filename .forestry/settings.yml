@@ -21,6 +21,11 @@ sections:
   label: Contact
   create: none
   match: "*"
+- type: directory
+  path: content/search
+  label: 搜索
+  create: none
+  match: "*"
 - type: document
   path: config.toml
   label: Configuration
