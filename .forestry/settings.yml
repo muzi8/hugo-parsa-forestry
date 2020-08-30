@@ -22,8 +22,8 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: content/search
-  label: 搜索
+  path: content/promotion/search
+  label: search
   create: none
   match: "*"
 - type: document
