@@ -21,3 +21,4 @@ fields:
   label: activityIndex
 pages:
 - content/promotion/one-promotion-page.md
+- data/one.json
