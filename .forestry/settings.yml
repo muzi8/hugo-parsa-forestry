@@ -24,7 +24,7 @@ sections:
 - type: directory
   path: content/promotion/search
   label: search
-  create: none
+  create: all
   match: "*"
 - type: document
   path: config.toml
