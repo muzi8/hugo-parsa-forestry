@@ -23,7 +23,7 @@ sections:
   match: "*"
 - type: directory
   path: content/promotion/search
-  label: search
+  label: Search
   create: all
   match: "*"
 - type: document
