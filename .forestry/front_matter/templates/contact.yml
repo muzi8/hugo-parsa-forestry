@@ -19,6 +19,11 @@ fields:
   config:
     required: false
   label: activityIndex
+- name: name
+  type: text
+  config:
+    required: false
+  label: name
 pages:
 - content/promotion/one-promotion-page.md
 - data/one.json
