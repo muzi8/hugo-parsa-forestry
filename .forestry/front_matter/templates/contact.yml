@@ -19,3 +19,5 @@ fields:
   config:
     required: false
   label: activityIndex
+pages:
+- content/promotion/search/one-search-page.md
