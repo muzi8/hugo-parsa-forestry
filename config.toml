@@ -5,7 +5,7 @@ summaryLength = "10"
 theme = "parsa"
 title = "Hugo Parsa Forestry Starter"
 [[menu.main]]
-name = "Search"
+name = "Promotion"
 weight = 3
 [[menu.main]]
 URL = "contact"
