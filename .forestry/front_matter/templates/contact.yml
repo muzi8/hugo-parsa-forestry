@@ -20,4 +20,4 @@ fields:
     required: false
   label: activityIndex
 pages:
-- content/promotion/search/one-search-page.md
+- content/promotion/one-promotion-page.md
