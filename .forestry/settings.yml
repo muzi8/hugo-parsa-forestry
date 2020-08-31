@@ -22,8 +22,8 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: content/promotion/search
-  label: Search
+  path: content/promotion
+  label: Promotion
   create: all
   match: "*"
 - type: document
